@@ -1,1 +1,3 @@
-[img]https://i.imgur.com/n8vB7kj.png[/img]
+!['o' output](http://imgur.com/36NJtMQ)
+
+
